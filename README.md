@@ -1,0 +1,1 @@
+A full-stack Online Book Store web application with user authentication, book browsing, shopping cart, and order management. Built with modern web technologies, featuring a responsive UI and secure backend integration.
